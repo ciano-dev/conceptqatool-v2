@@ -1,3 +1,6 @@
+# Concept QA Tool v.2.0
+![](https://qatoolv2.herokuapp.com/static/media/logo.9c182765.svg)
+
 ### Features
 - Can select specific versions and format using concept link
 - Generates multiple preview based on trigger combinations
@@ -5,9 +8,7 @@
 
 See [Live Demo](https://concept-qa-tool.herokuapp.com/ "Live Demo")
 
-# Concept QA Tool v.2.0
-![](https://qatoolv2.herokuapp.com/static/media/logo.9c182765.svg)
-
+------------
 
 ### Instructions:
 
