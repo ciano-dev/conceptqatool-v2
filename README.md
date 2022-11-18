@@ -24,8 +24,8 @@ in your terminal to start the application.
 
 ### General Requirements
 
-- Node 16.18.0
-- NPM 8.19.2
+- Node 16.14.0
+- NPM 6.14.15
 - Yarn 1.22.19
 - MongoDB Atlas
 - Google Cloud
