@@ -8,8 +8,6 @@
 
 See [Live Demo](https://concept-qa-tool.herokuapp.com/ "Live Demo")
 
-------------
-
 ### Instructions:
 
 Using CMD/Terminal or VS Code, locate your cloned repository and run. 
@@ -23,6 +21,8 @@ Once root folder and client finished installing the dependencies, make sure you 
 yarn run dev
 ```
 in your terminal to start the application.
+
+------------
 
 ### General Requirements
 
