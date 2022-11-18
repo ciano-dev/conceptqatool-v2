@@ -1,6 +1,7 @@
 ### Features
 - Can select specific versions and format using concept link
-- generates multiple preview based on trigger combinations
+- Generates multiple preview based on trigger combinations
+- Adds new language support
 
 See [Live Demo](https://concept-qa-tool.herokuapp.com/ "Live Demo")
 
